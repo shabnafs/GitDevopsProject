@@ -1,0 +1,8 @@
+Thi is my first file in GIT Projet
+
+	- First creata project folder in computer 
+	- you have to decide the path in computer
+	- Once you go to poject folder
+		then run the below command
+		  git init .
+
