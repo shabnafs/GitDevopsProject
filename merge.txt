@@ -7,3 +7,5 @@ hi ,i need to merge two files in the one file
 789
 000
 000
+222
+333
